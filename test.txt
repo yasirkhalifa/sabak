@@ -1,1 +1,1 @@
-https://github.com
+This is your first simple study magento 2 module, to understand Block,Controller and view folder function.
